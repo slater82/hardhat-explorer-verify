@@ -42,7 +42,7 @@
     "semver": "^6.3.0",
     "table": "^6.8.0",
     "tsx": "^4.7.3",
-    "undici": "^5.14.0"
+    "undici": "^6.23.0"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",
